@@ -99,6 +99,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-[![GitHub Streak](https://github-readme-streak-stats-five-nu-60.vercel.app?user=itzmahtab&theme=dark&border_radius=6.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dgagp1wfc-mahis-projects-8823c70d.vercel.app?user=itzmahtab&theme=dark" alt="GitHub Streak" /></a>
 ###
