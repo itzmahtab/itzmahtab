@@ -26,7 +26,15 @@
 
 ###
 
-<p align="left">💻 I’m a MERN Stack Developer building modern, scalable web apps<br><br>📚 I’m currently learning Go (Golang) — because I love speed 🏎️<br><br>🧠 Practicing DSA on LeetCode & Codeforces to strengthen my logic<br><br>📊 Exploring Python for Data Analysis (NumPy, Pandas, Matplotlib)<br><br>📈 Comfortable with Excel for data visualization<br><br>🎯 Goal: Become a well-rounded Software Engineer who can build anything from scratch</p>
+<p align="left">
+  💻 I’m a <b>MERN Stack Developer</b> passionate about building modern, scalable, and user-friendly web applications.<br><br>
+  📚 Currently diving deep into <b>Go (Golang)</b> — because speed, simplicity, and concurrency fascinate me. 🏎️<br><br>
+  🧠 Actively solving problems on <b>LeetCode</b> & <b>Codeforces</b> to sharpen my logic and DSA skills.<br><br>
+  📊 Exploring <b>Python for Data Analysis</b> using NumPy, Pandas & Matplotlib to transform data into insights.<br><br>
+  📈 Also comfortable with <b>Excel</b> for data visualization and quick analytics.<br><br>
+  🎯 My ultimate goal: to become a <b>well-rounded Software Engineer</b> who can design, build, and scale ideas that make an impact.<br><br>
+  🎲 <i>Fun Fact:</i> I once spent hours debugging... only to realize I forgot a semicolon. That’s when I learned — coding is 10% typing, 90% staring at the screen. ☕😂
+</p>
 
 ###
 
@@ -106,4 +114,3 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dgagp1wfc-mahis-projects-8823c70d.vercel.app?user=itzmahtab&theme=dark" alt="GitHub Streak" /></a>
-###
