@@ -106,11 +106,26 @@
 
 ###
 
+<h3 align="left">🔥 My Stats :</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmahtab&show_icons=true&locale=en&layout=compact" alt="itzmahtab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmahtab&show_icons=true&locale=en" alt="itzmahtab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmahtab&" alt="itzmahtab" /></p>
 
-<h3 align="left">🔥   My Stats :</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dgagp1wfc-mahis-projects-8823c70d.vercel.app?user=itzmahtab&theme=dark" alt="GitHub Streak" /></a>
+###
+
+<h3 align="left">📆 Coding Day Streak</h3>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/itzmahtab?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+###
+
+<h3 align="left">🔥 GitHub Activity Calendar</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmahtab&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+</div>
