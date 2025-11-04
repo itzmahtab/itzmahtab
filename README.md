@@ -116,31 +116,13 @@
 
 ###
 
-<h3 align="left">📆 Coding Day Streak</h3>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/itzmahtab?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
-###
-
-<h3 align="left">🔥 GitHub Streaks & Stats</h3>
-
-<div align="center">
-
-<!-- Streak Tracker like LeetCode -->
-<img src="https://streak-stats.demolab.com?user=itzmahtab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<!-- Contribution Graph (like day streak calendar) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmahtab&theme=react-dark&hide_border=true&area=true" width="90%" alt="activity graph" />
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=itzmahtab&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmahtab&layout=compact&theme=tokyonight" alt="Top languages" />
 
 </div>
+
+###
+
 <h3 align="left">🔥 GitHub Activity Calendar</h3>
 
 <div align="center">
