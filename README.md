@@ -98,6 +98,12 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzmahtab&show_icons=true&locale=en&layout=compact" alt="itzmahtab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzmahtab&show_icons=true&locale=en" alt="itzmahtab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzmahtab&" alt="itzmahtab" /></p>
+
 <h3 align="left">🔥   My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-dgagp1wfc-mahis-projects-8823c70d.vercel.app?user=itzmahtab&theme=dark" alt="GitHub Streak" /></a>
 ###
